@@ -1,4 +1,19 @@
 ﻿  mapa.cpp
-C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(15,56): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
-C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(15,43): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(20,56): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(20,43): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(139,119): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(139,98): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,117): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,117): warning C4244:         with
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,117): warning C4244:         [
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,117): warning C4244:             T=float
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,117): warning C4244:         ]
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,96): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,96): warning C4244:         with
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,96): warning C4244:         [
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,96): warning C4244:             T=float
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(141,96): warning C4244:         ]
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(184,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(244,65): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\iNTENTO3sfml\mapa.cpp(264,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
   iNTENTO3sfml.vcxproj -> C:\Users\Extreme PC\Documents\2024 Programacion\iNTENTO3sfml\x64\Debug\iNTENTO3sfml.exe
